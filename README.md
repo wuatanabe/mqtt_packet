@@ -22,7 +22,8 @@ $ npm install mqtt_packet
 
 ### Usage
 
-Coming Soon
+For an example see [mqtt_node](http://github.com/wuatanabe/mqtt_node)
+
 
 ### Configuration
 
