@@ -1,0 +1,39 @@
+{
+  "author": "Paolo Freuli <paolo.freuli@gmail.com>",
+  "name": "mqtt_packet",
+  "description": "A  library to encode and decode messages for the MQTT protocol",
+  "version": "0.0.8",
+  "contributors": [
+  ],
+  "keywords": [
+    "mqtt",
+    "m2m",
+    "IoT",
+    "server",
+    "client",
+    "message",
+    "packet"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wuatanabe/mqtt_packet.git"
+  },
+  "main": "index.js",
+  "scripts": {
+		"test": "vows --spec"
+  },
+  "bin": {
+  },
+  "engines": {
+    "node": ">=0.8.6"
+  },
+  "dependencies": {
+	"logme": "0.3.8"
+  },
+"devDependencies": {    
+	"mocha": "1.4.x",    
+	"zombie": "1.4.x" ,
+        "assert": "1.1.x" 	
+	}
+}
+ 
