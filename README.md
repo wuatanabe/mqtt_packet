@@ -1,8 +1,8 @@
 MQTT_PACKET
 ====================
 
-A very basic library to be used as a building block for MQTT Clients 
-and Servers.
+MQTT Message Encoder/Decoder Module - A basic building block for MQTT Clients and Servers
+
 Beware: the library is in alfa status
 
 ## Features
@@ -31,7 +31,7 @@ Coming Soon
 ## Links
 
 * [GIT Repository](http://github.com/wuatanabe/mqtt_packet)
-
+* [NPM Repository](https://npmjs.org/package/mqtt_packet)
 
 ## Authors
 
